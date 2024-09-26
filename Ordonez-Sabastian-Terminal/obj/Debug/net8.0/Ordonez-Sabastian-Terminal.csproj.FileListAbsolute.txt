@@ -1,0 +1,15 @@
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\bin\Debug\net8.0\Ordonez-Sabastian-Terminal.exe
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\bin\Debug\net8.0\Ordonez-Sabastian-Terminal.deps.json
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\bin\Debug\net8.0\Ordonez-Sabastian-Terminal.runtimeconfig.json
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\bin\Debug\net8.0\Ordonez-Sabastian-Terminal.dll
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\bin\Debug\net8.0\Ordonez-Sabastian-Terminal.pdb
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.AssemblyInfoInputs.cache
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.AssemblyInfo.cs
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.sourcelink.json
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.dll
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\refint\Ordonez-Sabastian-Terminal.dll
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.pdb
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\Ordonez-Sabastian-Terminal.genruntimeconfig.cache
+C:\Users\Ss4Fo\source\repos\Ordonez-Sabastian-a1-Project\Ordonez-Sabastian-Terminal\obj\Debug\net8.0\ref\Ordonez-Sabastian-Terminal.dll
